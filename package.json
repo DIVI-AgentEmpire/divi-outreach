@@ -1,0 +1,13 @@
+{
+  "name": "divi-outreach",
+  "version": "1.0.0",
+  "description": "AI Industry Outreach Platform",
+  "main": "api/generate.js",
+  "scripts": {
+    "start": "node api/generate.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
